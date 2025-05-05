@@ -6,6 +6,7 @@
 Система состоит из следующих составляющих: 
 - Робот-манипулятор Stanislav
 - Система машиного зрения
+
 Робот-манипулятор Stanislav предназначен для манипулирования объектами в рабочей зоне. В случае в данной системой рабочая зона изображена на рисунке 2.
 ![H7BrBU79LT4hGROYKGtWNyIq9M9dJdH1P63tbvqzex3z5E4jZCFPp7JLMj80xtH_GuD2-I4zx4VVY_gBV3aJC1F6](https://github.com/user-attachments/assets/a06a6f5a-cc15-4d3f-bbbf-1a5ed19e059e)
 
